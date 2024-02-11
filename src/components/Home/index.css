@@ -1,0 +1,92 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.Header-cont {
+  background-color: #f1f5f9;
+  width: 100%;
+  padding: 10px;
+}
+.website-logo {
+  height: 80px;
+  width: 250px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+}
+.Failure-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.oops-heading {
+  font-size: 45px;
+  color: #4656a1;
+  font-weight: bold;
+  line-height: 0;
+  padding-top: 10px;
+}
+.oops-para {
+  font-size: 20px;
+  color: #64748b;
+  line-height: 0;
+}
+.button {
+  height: 40px;
+  width: 100px;
+  background-color: #4656a1;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.bottom-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  margin-left: 30px;
+}
+.loader-cont {
+  text-align: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 45px;
+  font-weight: 500;
+  margin-left: 60px;
+  margin-top: 50px;
+}
+.list-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.list-item-cont {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin: 20px;
+  padding: 10px;
+}
+.link {
+  text-decoration: none;
+}
+.course-logo {
+  height: 90px;
+  width: 90px;
+  margin-right: 5px;
+}
+.name {
+  font-size: 28px;
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: bold;
+  padding-left: 5px;
+}

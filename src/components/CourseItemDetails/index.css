@@ -1,0 +1,42 @@
+.Header-cont {
+  background-color: #f1f5f9;
+  width: 100%;
+  padding: 10px;
+}
+.website-logo {
+  height: 80px;
+  width: 250px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+}
+.view-cont {
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  margin: 20px;
+  list-style-type: none;
+}
+.img-cont {
+  width: 20vw;
+}
+.desc-cont {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  padding-left: 10px;
+}
+.image {
+  height: 100%;
+  width: 100%;
+}
+.course-heading {
+  color: #1e293b;
+  font-size: 30px;
+}
+.desc {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 20px;
+}

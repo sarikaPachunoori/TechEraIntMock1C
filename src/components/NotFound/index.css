@@ -1,0 +1,23 @@
+.Header-cont {
+  background-color: #f1f5f9;
+  width: 100%;
+  padding: 10px;
+}
+.website-logo {
+  height: 80px;
+  width: 250px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+}
+.not-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found-img {
+  height: 60vh;
+  width: 30vw;
+  margin-top: 30px;
+}
